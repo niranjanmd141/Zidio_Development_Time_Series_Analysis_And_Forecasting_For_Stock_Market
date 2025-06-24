@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+yfinance
+prophet
+tensorflow
+streamlit # Optional, if you plan to build a web app
+flask # Optional, if you plan to build a web app
