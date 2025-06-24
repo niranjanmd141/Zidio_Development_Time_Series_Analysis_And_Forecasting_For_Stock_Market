@@ -1,3 +1,7 @@
+Gentle request I can't upload the file called 'venv' Folder because the folder contains the large number of files which is '2.24GB' which had cross the GitHub repository storage limit, which is above the '25MB', So please consider the remaining files.
+But I had a 'video proof' recorded session of my whole complete project and I uploaded the video in 'LinkedIn' -> so this is my video proof of my complete project 'LinkedIn' link   
+
+
 Execute this one 'python scripts/main.py'
 
 README.md Structure Outline
