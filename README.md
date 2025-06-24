@@ -1,5 +1,5 @@
-Gentle request I can't upload the file called 'venv' Folder because the folder contains the large number of files which is '2.24GB' which had cross the GitHub repository storage limit, which is above the '25MB', So please consider the remaining files.
-But I had a 'video proof' recorded session of my whole complete project and I uploaded the video in 'LinkedIn' -> so this is my video proof of my complete project 'LinkedIn' link   
+1. Gentle request I can't upload the file called 'venv' Folder because the folder contains the large number of files which is '2.24GB' which had cross the GitHub repository storage limit, which is above the '25MB', So please consider the remaining files.
+2. But I had a 'video proof' recorded session of my whole complete project and I uploaded the video in 'LinkedIn' -> so this is my video proof of my complete project 'LinkedIn' link 'https://www.linkedin.com/posts/niranjan-m-d-76a479202_dataanalytics-timeseriesanalysis-stockmarketforecasting-activity-7343344807718674432-AaDq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOuyAIBCA0cO3jDOyU5fF4PXSkTLFBoXpA'  
 
 
 Execute this one 'python scripts/main.py'
